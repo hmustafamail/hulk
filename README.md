@@ -17,3 +17,4 @@ Use Control-C to exit.
 ## Troubleshooting
 If you are having problems running `pip3 install nltk` due to network connectivity issues, try using a VPN tunnel or proxy to re-route your network traffic through a better network that works the way it should.
 
+Copyright: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
