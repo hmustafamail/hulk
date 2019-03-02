@@ -5,7 +5,8 @@
 # also Daren Thomas and Stephen Falk:
 # https://stackoverflow.com/questions/5486337/how-to-remove-stop-words-using-nltk-or-python
 #
-
+# Copyright: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+#
 # Must download stopwords first. Run in Python shell:
 # nltk.download("stopwords")
 
